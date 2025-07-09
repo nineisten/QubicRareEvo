@@ -16,7 +16,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 - **Banners**: 2 count vinyl banners (portrait), 2 count tension fabric banners (7-day turnaround), and 1 count 3x5 vinyl banner (landscape).
 - **Tables with Cloth**: Custom tablecloths with QUBIC branding (estimated cost, pending confirmation from supplier).
 - **T-Shirts**: 36 count black T-shirts with QUBIC green logo (estimated cost, includes tax, pending confirmation from supplier).
-- **Booth Cost**: 10x10 booth space. $5000. Price includes 1 vip pass & 2 exhibitor tickets which we will upgrade to vip passes (500 per updgrade) to increase our networking opportunities. 
+- **Booth Cost**: 10x10 booth space. $5000. Price includes 1 vip pass & 2 exhibitor tickets which we will upgrade to vip passes ($500 per updgrade) to increase our networking opportunities. 
 
 **Total Estimated Printing and Booth Costs**: $9,013.88.
 
@@ -55,7 +55,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | Airfare (ATL & IAH to LAS) | $935.00 |
 | Accommodation (Caesars Palace, 5 nights) | $3,300.00 |
 | Per Diem ($88/day, 3 people, 5 days) | $1,320.00 |
-| Additional Vip upgrades (500x2) | 1000 |
+| Additional Vip upgrades ($500 per additional upgrade) | $1000 |
 | **Total** | **$14,589.06** |
 
 ## Recommendations
