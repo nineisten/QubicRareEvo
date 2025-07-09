@@ -16,9 +16,9 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 - **Banners**: 2 count vinyl banners (portrait), 2 count tension fabric banners (7-day turnaround), and 1 count 3x5 vinyl banner (landscape).
 - **Tables with Cloth**: Custom tablecloths with QUBIC branding (estimated cost, pending confirmation from supplier).
 - **T-Shirts**: 36 count black T-shirts with QUBIC green logo (estimated cost, includes tax, pending confirmation from supplier).
-- **Booth Cost**: 10x10 booth space.
+- **Booth Cost**: 10x10 booth space. $5000. Price includes 1 vip pass & 2 exhibitor tickets which we will upgrade to vip passes (500 per updgrade) to increase our networking opportunities. 
 
-**Total Estimated Printing and Booth Costs**: $8,013.88.
+**Total Estimated Printing and Booth Costs**: $9,013.88.
 
 ## Giveaway
 - **50 Million QUBIC Tokens**: To be distributed to attendees via a structured giveaway mechanism (e.g., QR code-based wallet registration or on-site tasks). Estimated value to be determined based on current QUBIC market price. No contingency is applied to the giveaway as it is a fixed token amount.
@@ -55,12 +55,13 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | Airfare (ATL & IAH to LAS) | $935.00 |
 | Accommodation (Caesars Palace, 5 nights) | $3,300.00 |
 | Per Diem ($88/day, 3 people, 5 days) | $1,320.00 |
-| **Total** | **$13,589.06** |
+| Additional Vip upgrades (500x2) | 1000 |
+| **Total** | **$14,589.06** |
 
 ## Recommendations
 1. **Confirm Supplier Costs**: Verify T-shirt and tablecloth costs with Prima Graphics or alternative vendors to ensure accuracy and minimize reliance on contingency funds.
 2. **Book Accommodation Early**: Secure Caesars Palace reservations promptly to lock in the base $300 per night rate and avoid potential rate increases.
-3. **Giveaway Logistics**: Develop a secure, user-friendly system for distributing QUBIC tokens to prevent fraud and ensure smooth execution, with messaging tied to Qubic Tickchain and QCap.
+3. **Giveaway Logistics**: Develop the optimal approach for fair and secure QUBIC distribution.
 4. **Design Materials**: Finalize designs for posters, banners, and T-shirts at least 10 days before the event to meet the 7-day turnaround for tension fabric banners, ensuring Qubic Tickchain, Quottery, and QCap are prominently featured.
 
 ## Conclusion
