@@ -28,12 +28,12 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 - **Airfare**: Round-trip flights for 3 team members (2 from Atlanta, 1 from Houston) based on average economy fares for 2025, with 10% contingency.
 
 ### Accommodation
-- **Caesars Palace**: $300 per night per room (with 10% contingency), with 2 people per room, for 3 people (2 rooms: 1 for 2 people, 1 for 1 person) for 5 nights.
+- **Caesars Palace**: $300 per night per room (with 10% contingency). 1 room per person.
 
 ### Per Diem
 - $80 per day per person for 5 days, with 10% contingency, for 3 people.
 
-**Total Estimated Travel and Accommodation Costs**: $5,555.
+**Total Estimated Travel and Accommodation Costs**: $7205.
 
 ## Promotional Strategy
 - **Qubic Tickchain Pitch**: Deliver a compelling presentation at the booth, highlighting the Qubic Tickchain as the core of QUBIC’s blockchain technology. Showcase Quottery as a practical example of QUBIC’s smart contract capabilities and promote QCap to demonstrate additional applications and value.
@@ -53,10 +53,10 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | 36ct T-Shirts | $862.49 |
 | 10x10 Booth | $5,500.00 |
 | Airfare (ATL & IAH to LAS) | $935.00 |
-| Accommodation (Caesars Palace, 5 nights) | $3,300.00 |
+| Accommodation (Caesars Palace,  3 rooms 5 nights) | $4950.00 |
 | Per Diem ($88/day, 3 people, 5 days) | $1,320.00 |
 | Additional Vip upgrades ($500 per additional upgrade) | $1000 |
-| **Total** | **$14,589.07** |
+| **Total** | **$16,239.07** |
 
 ## Recommendations
 1. **Confirm Supplier Costs**: Verify T-shirt and tablecloth costs with Prima Graphics or alternative vendors to ensure accuracy and minimize reliance on contingency funds.
@@ -65,6 +65,6 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 4. **Design Materials**: Finalize designs for posters, banners, and T-shirts at least 10 days before the event to meet the 7-day turnaround for tension fabric banners, ensuring Qubic Tickchain, Quottery, and QCap are prominently featured.
 
 ## Conclusion
-The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $14,589.07, including a 10% contingency for potential overages, ensures a professional and engaging presence with a lean team of up to 3 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
+The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $16,239.07, including a 10% contingency for potential overages, ensures a professional and engaging presence with a lean team of up to 3 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
 
 For further details or to proceed with supplier coordination, please contact the QUBIC team.
