@@ -54,6 +54,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | Accommodation (Caesars Palace,  3 rooms 5 nights) | $4950.00 |
 | Per Diem ($88/day, 3 people, 5 days) | $1,320.00 |
 | Additional Vip upgrades ($500 per additional upgrade) | $1000 |
+| 50 million QUBIC | SPOT |
 | **Total** | **$16,019.07** |
 
 ## Recommendations
@@ -63,6 +64,6 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 4. **Design Materials**: Finalize designs for posters, banners, and T-shirts at least 10 days before the event to meet the 7-day turnaround for tension fabric banners, ensuring Qubic Tickchain, Quottery, and QCap are prominently featured.
 
 ## Conclusion
-The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $16,019.07, including a 10% contingency for potential overages, ensures a professional and engaging presence with a lean team of up to 3 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
+The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $16,019.07,including a 10% contingency for potential overages, & 50 million QUBIC, ensures a professional and engaging presence with a lean team of up to 3 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
 
 For further details or to proceed with supplier coordination, please contact the QUBIC team.

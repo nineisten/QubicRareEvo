@@ -55,6 +55,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | Per Diem ($88/day, 4 people, 5 days) | $1,760.00 |
 | Additional Vip upgrades ($500 per additional upgrade) | $1000 |
 | Additional ticket for 4th team member | $1600 |
+| 50 million QUBIC | Spot |
 | **Total** | **$20,313.77** |
 
 ## Recommendations
@@ -64,6 +65,6 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 4. **Design Materials**: Finalize designs for posters, banners, and T-shirts at least 10 days before the event to meet the 7-day turnaround for tension fabric banners, ensuring Qubic Tickchain, Quottery, and QCap are prominently featured.
 
 ## Conclusion
-The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $20,313.77, including a 10% contingency for potential overages, ensures a professional and engaging presence with a lean team of up to 4 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
+The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $20,313.77, including a 10% contingency for potential overages, & 50 million QUBIC, ensures a professional and engaging presence with a lean team of up to 4 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
 
 For further details or to proceed with supplier coordination, please contact the QUBIC team.
