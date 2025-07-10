@@ -14,18 +14,17 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 
 - **Posters**: 50 count 11x17 and 10 count 24x36 posters.
 - **Banners**: 2 count vinyl banners (portrait), 2 count tension fabric banners (7-day turnaround), and 1 count 3x5 vinyl banner (landscape).
-- **Tables with Cloth**: Custom tablecloths with QUBIC branding (estimated cost, pending confirmation from supplier).
 - **T-Shirts**: 36 count black T-shirts with QUBIC green logo (estimated cost, includes tax, pending confirmation from supplier).
-- **Booth Cost**: 10x10 booth space. $5000. Price includes 1 vip pass & 2 exhibitor tickets which we will upgrade to vip passes ($500 per updgrade) to increase our networking opportunities. 
+- **Booth Cost**: 10x10 booth space. $5000. Price includes 1 vip pass & 2 exhibitor tickets which we will upgrade to vip passes ($500 per updgrade) to increase our networking opportunities. An extra pass will have to be purchased ($1600) to accomodated a 4th team member.
 
-**Total Estimated Printing and Booth Costs**: $9,013.88.
+**Total Estimated Printing and Booth Costs**: $8,793.88.
 
 ## Giveaway
 - **50 Million QUBIC Tokens**: To be distributed to attendees via a structured giveaway mechanism (e.g., QR code-based wallet registration or on-site tasks). Estimated value to be determined based on current QUBIC market price. No contingency is applied to the giveaway as it is a fixed token amount.
 
 ## Logistics
 ### Travel
-- **Airfare**: Round-trip flights for 3 team members (2 from Atlanta, 1 from Houston) based on average economy fares for 2025, with 10% contingency.
+- **Airfare**: Round-trip flights for 3 team members (1 from Atlanta, 1 from Houston, & 2 additional locations) based on average economy fares for 2025, with 10% contingency.
 
 ### Accommodation
 - **Caesars Palace**: $300 per night per room (with 10% contingency), with 2 people per room, for 3 people (2 rooms: 1 for 2 people, 1 for 1 person) for 5 nights.
@@ -49,14 +48,14 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | 2ct Vinyl Banners (Portrait) | $136.57 |
 | 2ct Tension Fabric Banners | $733.00 |
 | 1ct 3x5 Vinyl Banner (Landscape) | $86.19 |
-| Tables with Cloth | $220.00 |
 | 36ct T-Shirts | $862.49 |
 | 10x10 Booth | $5,500.00 |
-| Airfare (ATL & IAH to LAS) | $935.00 |
-| Accommodation (Caesars Palace, 5 nights) | $3,300.00 |
-| Per Diem ($88/day, 3 people, 5 days) | $1,320.00 |
+| Airfare (ATL & IAH to LAS) | $1540.00 |
+| Accommodation (Caesars Palace, 4 rooms for 5 nights) | $4950.00 |
+| Per Diem ($80/day, 4 people, 5 days) | $1,760.00 |
 | Additional Vip upgrades ($500 per additional upgrade) | $1000 |
-| **Total** | **$14,589.07** |
+| Additional ticket for 4th team member | $1600 |
+| **Total** | **$18,663.77** |
 
 ## Recommendations
 1. **Confirm Supplier Costs**: Verify T-shirt and tablecloth costs with Prima Graphics or alternative vendors to ensure accuracy and minimize reliance on contingency funds.
@@ -65,6 +64,6 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 4. **Design Materials**: Finalize designs for posters, banners, and T-shirts at least 10 days before the event to meet the 7-day turnaround for tension fabric banners, ensuring Qubic Tickchain, Quottery, and QCap are prominently featured.
 
 ## Conclusion
-The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $14,589.07, including a 10% contingency for potential overages, ensures a professional and engaging presence with a lean team of up to 3 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
+The QUBIC booth at RareEvo will position the brand as a leader in the blockchain space, emphasizing the Qubic Tickchain, showcasing Quottery as a smart contract example, and promoting QCap. The estimated budget of $18,663.77, including a 10% contingency for potential overages, ensures a professional and engaging presence with a lean team of up to 3 people. By finalizing logistics and designs promptly, QUBIC can maximize its impact at the conference.
 
 For further details or to proceed with supplier coordination, please contact the QUBIC team.
