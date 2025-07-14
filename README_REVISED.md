@@ -5,9 +5,25 @@ QUBIC aims to establish a strong presence at the RareEvo conference in Las Vegas
 
 ## Objectives
 - **Brand Visibility**: Showcase QUBIC’s blockchain technology, emphasizing the Qubic Tickchain, to enthusiasts, developers, and potential partners.
-- **Engagement**: Distribute 50 million QUBIC tokens as a giveaway to drive interest and adoption.
+- **Engagement**: Develop interactive events to promote organic adoption.
+    1. Distribute 50 million QUBIC tokens as a giveaway to drive interest and adoption. Possible using quottery to run a raffle. 
+    2. Use NFTs as a memorabelia. Your NFT will be your raffle ticket.
+    3. Provide merch and promo material for conference guests.
 - **Networking**: Facilitate connections through a pitch centered on the Qubic Tickchain, highlighting Quottery and QCap to demonstrate QUBIC’s capabilities and value proposition.
 - **Professional Presentation**: Utilize high-quality printed materials and branded merchandise to create a memorable booth experience.
+- **Outcomes**:
+    1. Connect with main players in the crypto space:
+        * Charles Hoskinson: IOHK
+        * Veronica Hash: Coinbase (US Policy)
+        * Austin Arnold: Altcoin Daily
+        * David Lavalle: Global head of ETF's for Grayscale
+        * James Van Straten: Senior Analyst / coindesk
+        * etc...
+    2. Achieve a minimum of 50 new wallets registered by way of our engagement efforts.
+    3. Gain network visibility & interest from every tier of the crypto community, from Devs & investors to retail enthusiasts.
+    4. Garner invitations to future events.
+    5. Forging relationships with US CEX reprepresentatives will be a high priority.
+    6. Accumulate high quality visual content for social media & press.
 
 ## Booth Setup and Materials
 ![Proofs](assets/webproof.png)
@@ -40,6 +56,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 - **T-Shirts**: Distribute 36 branded T-shirts to high-value attendees (e.g., potential partners, influencers) to enhance brand recall, featuring QUBIC branding with references to Qubic Tickchain.
 - **Giveaway**: Leverage the 50 million QUBIC token giveaway to drive booth traffic. Implement a digital wallet integration for seamless distribution, emphasizing QUBIC’s ecosystem, including QCap.
 - **Printed Materials**: Use 11x17 and 24x36 posters for booth decoration and handouts, highlighting Qubic Tickchain, Quottery, and QCap. Vinyl and tension fabric banners will create a professional backdrop with QUBIC branding.
+
 
 ## Budget Summary
 | Item | Cost (USD) |
