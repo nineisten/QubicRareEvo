@@ -24,7 +24,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 
 ## Logistics
 ### Travel
-- **Airfare**: Round-trip flights for 4 team members (1 from Atlanta, 1 from Houston, & 2 additional locations) based on average economy fares for 2025, with 10% contingency.
+- **Airfare**: Round-trip flights for 4 team members, based on average economy fares for 2025, with 10% contingency.
 
 ### Accommodation
 - **Caesars Palace**: 4 rooms for 5 nights @ $300 per night per room (with 10% contingency).
@@ -50,7 +50,7 @@ The booth will be a 10x10 space, designed to maximize visibility and engagement.
 | 1ct 3x5 Vinyl Banner (Landscape) | $86.19 |
 | 36ct T-Shirts | $862.49 |
 | 10x10 Booth | $5,500.00 |
-| Airfare (ATL, IAH, & others to LAS) | $1540.00 |
+| Airfare | $1540.00 |
 | Accommodation (Caesars Palace, 4 rooms for 5 nights) | $6600.00 |
 | Per Diem ($88/day, 4 people, 5 days) | $1,760.00 |
 | Additional Vip upgrades ($500 per additional upgrade) | $1000 |
