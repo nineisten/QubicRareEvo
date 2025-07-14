@@ -1,5 +1,5 @@
 # Proposal for QUBIC Booth at RareEvo Conference, Las Vegas
-![evoheader](assets/evoheader.png)
+![evoheader](assets/qubicevoheader.png)
 
 
 ## Executive Summary
