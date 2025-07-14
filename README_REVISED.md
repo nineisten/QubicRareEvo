@@ -1,5 +1,5 @@
 # Proposal for QUBIC Booth at RareEvo Conference, Las Vegas
-![Proofs](assets/webproof.png)
+
 ## Executive Summary
 QUBIC aims to establish a strong presence at the RareEvo conference in Las Vegas to promote its innovative blockchain technology, with a focus on the Qubic Tickchain, showcasing Quottery as a demonstration of smart contract capabilities, and highlighting QCap. This proposal outlines the budget, logistics, and promotional strategy, including printed materials, branded merchandise, and a significant QUBIC token giveaway to attract and retain interest, with a team of up to 3 people attending. A 10% contingency is included for each budget item to account for potential cost overages.
 
@@ -10,6 +10,7 @@ QUBIC aims to establish a strong presence at the RareEvo conference in Las Vegas
 - **Professional Presentation**: Utilize high-quality printed materials and branded merchandise to create a memorable booth experience.
 
 ## Booth Setup and Materials
+![Proofs](assets/webproof.png)
 The booth will be a 10x10 space, designed to maximize visibility and engagement. The following materials will be sourced from Prima Graphics in Atlanta, unless otherwise noted, with applicable sales tax (8.9%) and a 10% contingency included in the costs for printed materials and T-shirts.
 
 - **Posters**: 50 count 11x17 and 10 count 24x36 posters.
