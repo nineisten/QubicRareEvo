@@ -1,7 +1,8 @@
 # Proposal for QUBIC Booth at RareEvo Conference, Las Vegas
 ![evoheader](assets/qubicevoheader.png)
 **Event Details**: RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)  
-**Funding Requested**: 50 million QUBIC tokens (estimated value: SPOT, based on current market price) + $16,019.07 USD  
+**organizer**: Evandon (Nineisten)
+**Funding Requested**: 50 million QUBIC tokens + $16,019.07 USD = 10.61 bQUBIC @ (USD rate: $1518/bQUBIC)
 **Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM
 
 ## Summary
@@ -87,4 +88,4 @@ This proposal advances QUBIC’s mission to drive blockchain innovation and adop
 4. **Design Alignment**: Ensure all materials highlight Qubic Tickchain, Quottery, and QCap, with designs completed within 5 days to meet the possible 7-day printing turnaround.
 
 ## Conclusion
-QUBIC’s participation at RareEvo (August 6-10, 2025) will establish it as a blockchain innovator, emphasizing the Qubic Tickchain, Quottery, and QCap. With a budget of $16,019.07 USD, 50 million QUBIC tokens, and a lean team of 3, QUBIC will maximize visibility, engagement, and networking. Given the 3-week timeline and 1-week approval process, we urge the community to vote for approval to support this strategic opportunity.
+QUBIC’s participation at RareEvo (August 6-10, 2025) will establish it as a blockchain innovator, emphasizing the Qubic Tickchain, Quottery, and QCap. With a budget of $16,019.07 USD (10.61/bQUBIC), and a lean team of 3, QUBIC will maximize visibility, engagement, and networking. Given the 3-week timeline and 1-week approval process, we urge the community to vote for approval to support this strategic opportunity.
