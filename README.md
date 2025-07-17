@@ -29,7 +29,7 @@ The premium option maximizes visibility, engagement, and networking opportunitie
 | 36ct T-Shirts | $862.49 |
 | 10x10 Booth (includes 1 VIP pass, 2 exhibitor tickets) | $5,500.00 |
 | Airfare (3 team members, round-trip, 10% contingency) | $935.00 |
-| Accommodation (Caesars Palace, 3 rooms, 5 nights, 10% contingency) | $4,950.00 |
+| Team Housing Accommodation for 5 days | $4,950.00 |
 | Per Diem ($88/day, 3 people, 5 days, 10% contingency) | $1,320.00 |
 | VIP Upgrades (2 exhibitor tickets to VIP, $500 each) | $1,000.00 |
 | 50 million QUBIC Giveaway | SPOT |
