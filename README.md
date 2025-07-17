@@ -1,4 +1,4 @@
-# Proposal for QUBIC Booth at RareEvo Conference, Las Vegas
+# CCF proposal : Qubic USA x RareEvo event 
 ![evoheader](assets/qubicevoheader.png)
 **Event Details**: RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)  
 **organizer**: Evandon (Nineisten)
