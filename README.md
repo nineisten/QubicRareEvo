@@ -9,7 +9,7 @@
 This proposal outlines QUBIC’s participation at the RareEvo Conference in Las Vegas, occurring in 3 weeks (August 6-10, 2025), to enhance brand visibility, promote the Qubic Tickchain, showcase Quottery as a smart contract application, and highlight QCap. The plan includes a 10x10 booth, high-quality printed materials, branded merchandise, a 50 million QUBIC token giveaway, and a team of up to 3 members. The total estimated cost is $16,019.07 USD, with a 10% contingency for budget items, plus 50 million QUBIC tokens. We aim to engage the crypto community, forge strategic partnerships, and drive adoption through interactive initiatives. Given the tight timeline, with community approval potentially taking 1 week, we request expedited voting in order to meet event deadlines and advance QUBIC’s ecosystem goals.
 
 ## Rationale
-The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, attracting over 10,000 developers, investors, and enthusiasts, making it a critical platform to showcase QUBIC’s innovative blockchain technology, particularly the Qubic Tickchain. The event’s audience aligns with QUBIC’s target market, and its timing necessitates urgent approval (within 1 week) to secure logistics and materials. Participating in 2025 offers a timely opportunity to leverage early-bird rates for booth space and accommodations, ensuring cost efficiency. QUBIC’s presence will differentiate it from competitors by emphasizing its unique Tickchain technology, Quottery’s smart contract capabilities, and QCap’s value proposition, positioning QUBIC as a leader in the blockchain space.
+The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, attracting over 10,000 developers, investors, and enthusiasts, making it a critical platform to showcase QUBIC’s innovative blockchain technology, particularly the Qubic Tickchain. The event’s audience aligns with QUBIC’s target market, and its timing necessitates urgent approval (within 1 week) to secure logistics and materials. Participating in 2025 offers a timely opportunity to leverage early-bird rates for booth space and accommodations, ensuring cost efficiency. QUBIC’s presence will differentiate it from competitors by emphasizing it's unique Tickchain technology, Quottery’s smart contract capabilities, and QCap’s value proposition, positioning QUBIC as a leader in the blockchain space.
 
 ## Proposal Details
 ### Funding Options
@@ -29,7 +29,7 @@ The premium option maximizes visibility, engagement, and networking opportunitie
 | 36ct T-Shirts | $862.49 |
 | 10x10 Booth (includes 1 VIP pass, 2 exhibitor tickets) | $5,500.00 |
 | Airfare (3 team members, round-trip, 10% contingency) | $935.00 |
-| Team Housing Accommodation for 5 days | $4,950.00 |
+| Team Housing Accommodations for 5 days | $4,950.00 |
 | Per Diem ($88/day, 3 people, 5 days, 10% contingency) | $1,320.00 |
 | VIP Upgrades (2 exhibitor tickets to VIP, $500 each) | $1,000.00 |
 | 50 million QUBIC Giveaway | SPOT |
