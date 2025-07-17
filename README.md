@@ -1,5 +1,5 @@
 # Proposal for QUBIC Booth at RareEvo Conference, Las Vegas
-
+![evoheader](assets/qubicevoheader.png)
 **Event Details**: RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)  
 **Funding Requested**: 50 million QUBIC tokens (estimated value: SPOT, based on current market price) + $16,019.07 USD  
 **Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM
@@ -12,11 +12,11 @@ The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, a
 
 ## Proposal Details
 ### Funding Options
-![Proofs](assets/webproof.png)
+
 - **Premium Presence (Recommended)**: 10x10 booth, 50 million QUBIC token giveaway, high-quality printed materials, branded T-shirts, and a team of 3 for maximum networking. Total cost: $16,019.07 USD + 50 million QUBIC.
 - **Basic Presence**: 10x10 booth, reduced printed materials (25 11x17 posters, 1 banner), no T-shirts, 25 million QUBIC giveaway, 2 team members. Estimated cost: $9,500 USD + 25 million QUBIC.
 The premium option maximizes visibility, engagement, and networking opportunities, leveraging the full team and giveaway to attract high-value connections like Charles Hoskinson (IOHK) and Veronica Hash (Coinbase).
-
+![Proofs](assets/webproof.png)
 ### Cost Breakdown
 | Item | Cost (USD) |
 |------|------------|
