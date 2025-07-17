@@ -2,7 +2,7 @@
 
 **Event Details**: RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)  
 **Funding Requested**: 50 million QUBIC tokens (estimated value: SPOT, based on current market price) + $16,019.07 USD  
-**Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM
+**Recipient Wallet Address**: [To be provided by QUBIC team for transparency]
 
 ## Summary
 This proposal outlines QUBIC’s participation at the RareEvo Conference in Las Vegas, occurring in 3 weeks (August 6-10, 2025), to enhance brand visibility, promote the Qubic Tickchain, showcase Quottery as a smart contract application, and highlight QCap. The plan includes a 10x10 booth, high-quality printed materials, branded merchandise, a 50 million QUBIC token giveaway, and a team of up to 3 members. The total estimated cost is $16,019.07 USD, with a 10% contingency for budget items, plus 50 million QUBIC tokens. We aim to engage the crypto community, forge strategic partnerships, and drive adoption through interactive initiatives. Given the tight timeline, with community approval potentially taking 1 week, we request expedited voting on [insert community platform link] to meet event deadlines and advance QUBIC’s ecosystem goals.
@@ -12,7 +12,6 @@ The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, a
 
 ## Proposal Details
 ### Funding Options
-![Proofs](assets/webproof.png)
 - **Premium Presence (Recommended)**: 10x10 booth, 50 million QUBIC token giveaway, high-quality printed materials, branded T-shirts, and a team of 3 for maximum networking. Total cost: $16,019.07 USD + 50 million QUBIC.
 - **Basic Presence**: 10x10 booth, reduced printed materials (25 11x17 posters, 1 banner), no T-shirts, 25 million QUBIC giveaway, 2 team members. Estimated cost: $9,500 USD + 25 million QUBIC.
 The premium option maximizes visibility, engagement, and networking opportunities, leveraging the full team and giveaway to attract high-value connections like Charles Hoskinson (IOHK) and Veronica Hash (Coinbase).
@@ -24,7 +23,7 @@ The premium option maximizes visibility, engagement, and networking opportunitie
 | 10ct 24x36 Posters | $424.00 |
 | 2ct Vinyl Banners (Portrait) | $136.57 |
 | 2ct Tension Fabric Banners | $733.00 |
-| 1ct 3x6 Vinyl Banner (Landscape) | $86.19 |
+| 1ct 3x5 Vinyl Banner (Landscape) | $86.19 |
 | 36ct T-Shirts | $862.49 |
 | 10x10 Booth (includes 1 VIP pass, 2 exhibitor tickets) | $5,500.00 |
 | Airfare (3 team members, round-trip, 10% contingency) | $935.00 |
@@ -43,11 +42,11 @@ The premium option maximizes visibility, engagement, and networking opportunitie
 | Goal | Target | KPI |
 |------|--------|-----|
 | Brand Visibility | Engage 1,000+ attendees | Booth visits tracked via QR code scans |
-| Wallet Registrations | minimum of 50 new QUBIC wallets | Number of wallets registered via giveaway |
+| Wallet Registrations | 50 new QUBIC wallets | Number of wallets registered via giveaway |
 | Networking | Connect with 5+ key industry figures | Meetings with figures like Charles Hoskinson, Veronica Hash, etc. |
 | Social Media Growth | 500+ new followers | Track mentions and followers on platforms like X |
-| Event Invitations | Aim to Secure future event invites | Documented invitations received |
-| CEX Relationships | Engage 1 or more US CEX representatives | Follow-up meetings scheduled post-event |
+| Event Invitations | Secure 2+ future event invites | Documented invitations received |
+| CEX Relationships | Engage 3+ US CEX representatives | Follow-up meetings scheduled post-event |
 | Visual Content | 50+ photos/videos | Content posted on QUBIC’s social channels |
 
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
@@ -70,12 +69,12 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 - **Social Media**: Share visual content on X and other platforms to sustain engagement.
 
 ## Execution Team
-- **Lead Proposer**: Evandon (aka Nineisten)
-- **Team Members**: NFT_Ronnie and 1 additional QUBIC representative for booth setup, networking, and presentations.
+- **Lead Proposer**: [To be named, QUBIC team representative]
+- **Team Members**: 2 additional QUBIC representatives for booth setup, networking, and presentations.
 - **Roles**: Booth management, Qubic Tickchain pitch delivery, giveaway coordination, content creation for social media.
 
 ## Community Engagement
-Given the event’s proximity (3 weeks from July 16, 2025) and possible 1-week approval timeline, we urge expedited community feedback and voting. Options include:
+Given the event’s proximity (3 weeks from July 16, 2025) and 1-week approval timeline, we urge expedited community feedback and voting on [insert community platform link]. Options include:
 - **Approve**: Fund $16,019.07 USD + 50 million QUBIC for premium presence.
 - **Reject**: Provide feedback for revisions.
 This proposal advances QUBIC’s mission to drive blockchain innovation and adoption. Join us in making RareEvo a milestone for QUBIC’s growth!
@@ -84,7 +83,9 @@ This proposal advances QUBIC’s mission to drive blockchain innovation and adop
 1. **Confirm Supplier Costs**: Verify T-shirt and printing costs with Prima Graphics within 2 days of approval to meet deadlines.
 2. **Book Early**: Secure Caesars Palace reservations immediately upon approval to lock in $300/night rate.
 3. **Giveaway Logistics**: Finalize QR code or Quottery-based raffle system within 5 days for secure token distribution.
-4. **Design Alignment**: Ensure all materials highlight Qubic Tickchain, Quottery, and QCap, with designs completed within 5 days to meet the possible 7-day printing turnaround.
+4. **Design Alignment**: Ensure all materials highlight Qubic Tickchain, Quottery, and QCap, with designs completed within 5 days to meet the 7-day printing turnaround.
 
 ## Conclusion
 QUBIC’s participation at RareEvo (August 6-10, 2025) will establish it as a blockchain innovator, emphasizing the Qubic Tickchain, Quottery, and QCap. With a budget of $16,019.07 USD, 50 million QUBIC tokens, and a lean team of 3, QUBIC will maximize visibility, engagement, and networking. Given the 3-week timeline and 1-week approval process, we urge the community to vote for approval on [insert platform link] to support this strategic opportunity.
+
+For further details, contact the QUBIC team at [insert contact].
