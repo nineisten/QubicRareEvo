@@ -5,7 +5,7 @@
 **Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM
 
 ## Summary
-This proposal outlines QUBIC’s participation at the RareEvo Conference in Las Vegas, occurring in 3 weeks (August 6-10, 2025), to enhance brand visibility, promote the Qubic Tickchain, showcase Quottery as a smart contract application, and highlight QCap. The plan includes a 10x10 booth, high-quality printed materials, branded merchandise, a 50 million QUBIC token giveaway, and a team of up to 3 members. The total estimated cost is $16,019.07 USD, with a 10% contingency for budget items, plus 50 million QUBIC tokens. We aim to engage the crypto community, forge strategic partnerships, and drive adoption through interactive initiatives. Given the tight timeline, with community approval potentially taking 1 week, we request expedited voting on [insert community platform link] to meet event deadlines and advance QUBIC’s ecosystem goals.
+This proposal outlines QUBIC’s participation at the RareEvo Conference in Las Vegas, occurring in 3 weeks (August 6-10, 2025), to enhance brand visibility, promote the Qubic Tickchain, showcase Quottery as a smart contract application, and highlight QCap. The plan includes a 10x10 booth, high-quality printed materials, branded merchandise, a 50 million QUBIC token giveaway, and a team of up to 3 members. The total estimated cost is $16,019.07 USD, with a 10% contingency for budget items, plus 50 million QUBIC tokens. We aim to engage the crypto community, forge strategic partnerships, and drive adoption through interactive initiatives. Given the tight timeline, with community approval potentially taking 1 week, we request expedited voting in order to meet event deadlines and advance QUBIC’s ecosystem goals.
 
 ## Rationale
 The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, attracting over 10,000 developers, investors, and enthusiasts, making it a critical platform to showcase QUBIC’s innovative blockchain technology, particularly the Qubic Tickchain. The event’s audience aligns with QUBIC’s target market, and its timing necessitates urgent approval (within 1 week) to secure logistics and materials. Participating in 2025 offers a timely opportunity to leverage early-bird rates for booth space and accommodations, ensuring cost efficiency. QUBIC’s presence will differentiate it from competitors by emphasizing its unique Tickchain technology, Quottery’s smart contract capabilities, and QCap’s value proposition, positioning QUBIC as a leader in the blockchain space.
@@ -71,7 +71,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 
 ## Execution Team
 - **Lead Proposer**: Evandon (aka Nineisten)
-- **Team Members**: NFT_Ronnie and 1 additional QUBIC representative for booth setup, networking, and presentations.
+- **Team Members**: NFTRonnie and 1 additional QUBIC representative (TBD) for booth setup, networking, and presentations.
 - **Roles**: Booth management, Qubic Tickchain pitch delivery, giveaway coordination, content creation for social media.
 
 ## Community Engagement
@@ -87,4 +87,4 @@ This proposal advances QUBIC’s mission to drive blockchain innovation and adop
 4. **Design Alignment**: Ensure all materials highlight Qubic Tickchain, Quottery, and QCap, with designs completed within 5 days to meet the possible 7-day printing turnaround.
 
 ## Conclusion
-QUBIC’s participation at RareEvo (August 6-10, 2025) will establish it as a blockchain innovator, emphasizing the Qubic Tickchain, Quottery, and QCap. With a budget of $16,019.07 USD, 50 million QUBIC tokens, and a lean team of 3, QUBIC will maximize visibility, engagement, and networking. Given the 3-week timeline and 1-week approval process, we urge the community to vote for approval on [insert platform link] to support this strategic opportunity.
+QUBIC’s participation at RareEvo (August 6-10, 2025) will establish it as a blockchain innovator, emphasizing the Qubic Tickchain, Quottery, and QCap. With a budget of $16,019.07 USD, 50 million QUBIC tokens, and a lean team of 3, QUBIC will maximize visibility, engagement, and networking. Given the 3-week timeline and 1-week approval process, we urge the community to vote for approval to support this strategic opportunity.
