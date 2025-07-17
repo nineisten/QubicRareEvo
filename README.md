@@ -66,7 +66,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 
 ### Post-Event
 - **Follow-Up**: Schedule meetings with new contacts, particularly US CEX representatives, within 2 weeks.
-- **Report**: Publish a post-event report on [insert community platform] detailing outcomes, KPI results, and content within 10 days.
+- **Report**: Publish a post-event report on discord detailing outcomes, KPI results, and content within 10 days.
 - **Social Media**: Share visual content on X and other platforms to sustain engagement.
 
 ## Execution Team
