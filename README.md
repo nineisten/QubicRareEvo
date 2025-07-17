@@ -3,7 +3,7 @@
 **Event Details**: RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)  
 **organizer**: Evandon (Nineisten)
 **Funding Requested**: 50 million QUBIC tokens + $16,019.07 USD = 10.61 bQUBIC @ (USD rate: $1518/bQUBIC)
-**Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM
+**Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM 
 
 ## Summary
 This proposal outlines QUBIC’s participation at the RareEvo Conference in Las Vegas, occurring in 3 weeks (August 6-10, 2025), to enhance brand visibility, promote the Qubic Tickchain, showcase Quottery as a smart contract application, and highlight QCap. The plan includes a 10x10 booth, high-quality printed materials, branded merchandise, a 50 million QUBIC token giveaway, and a team of up to 3 members. The total estimated cost is $16,019.07 USD, with a 10% contingency for budget items, plus 50 million QUBIC tokens. We aim to engage the crypto community, forge strategic partnerships, and drive adoption through interactive initiatives. Given the tight timeline, with community approval potentially taking 1 week, we request expedited voting in order to meet event deadlines and advance QUBIC’s ecosystem goals.
@@ -16,7 +16,7 @@ The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, a
 
 - **Premium Presence (Recommended)**: 10x10 booth, 50 million QUBIC token giveaway, high-quality printed materials, branded T-shirts, and a team of 3 for maximum networking. Total cost: $16,019.07 USD + 50 million QUBIC.
 - **Basic Presence**: 10x10 booth, reduced printed materials (25 11x17 posters, 1 banner), no T-shirts, 25 million QUBIC giveaway, 2 team members. Estimated cost: $9,500 USD + 25 million QUBIC.
-The premium option maximizes visibility, engagement, and networking opportunities, leveraging the full team and giveaway to attract high-value connections like Charles Hoskinson (IOHK) and Veronica Hash (Coinbase).
+The premium option maximizes visibility, engagement, and networking opportunities, leveraging the full team and giveaway to attract high-value connections like Austin Arnolds (Altcoin Daily), Veronica Hash (Coinbase) and others.
 ![Proofs](assets/webproof.png)
 ### Cost Breakdown
 | Item | Cost (USD) |
@@ -45,7 +45,7 @@ The premium option maximizes visibility, engagement, and networking opportunitie
 |------|--------|-----|
 | Brand Visibility | Engage 1,000+ attendees | Booth visits tracked via QR code scans |
 | Wallet Registrations | minimum of 50 new QUBIC wallets | Number of wallets registered via giveaway |
-| Networking | Connect with 5+ key industry figures | Meetings with figures like Charles Hoskinson, Veronica Hash, etc. |
+| Networking | Connect with 5+ key industry figures | Meetings with figures like Austin Arnold, Veronica Hash, etc. |
 | Social Media Growth | 500+ new followers | Track mentions and followers on platforms like X |
 | Event Invitations | Aim to Secure future event invites | Documented invitations received |
 | CEX Relationships | Engage 1 or more US CEX representatives | Follow-up meetings scheduled post-event |
@@ -62,7 +62,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 ### During Event (August 6-10, 2025)
 - **Booth Activities**: Deliver Qubic Tickchain pitch, showcasing Quottery and QCap. Distribute 36 T-shirts to high-value attendees and use posters/banners for visibility.
 - **Engagement**: Run 50 million QUBIC giveaway via QR code scans or on-site tasks, using NFTs as raffle tickets.
-- **Networking**: Leverage VIP passes for team to attend exclusive sessions, targeting connections with Charles Hoskinson, Veronica Hash, Austin Arnold, and others.
+- **Networking**: Leverage VIP passes for team to attend exclusive sessions, targeting connections with Veronica Hash, Austin Arnold, and others.
 - **Content Creation**: Capture photos/videos for social media to highlight booth activity and interactions.
 
 ### Post-Event
