@@ -17,7 +17,7 @@ The RareEvo Conference, held August 6-10, 2025, is a premier blockchain event, a
 - **Premium Presence**: 10x10 booth, 100 million QUBIC token giveaway, high-quality printed materials, branded T-shirts, and a team of 3 for maximum networking. Total cost: $15,482.88 USD + 100 million QUBIC.
 
 ![Proofs](assets/webproof.png)
-![tee](assets/webproof.png)
+![tee](assets/tee.jpeg)
 
 ### Cost Breakdown
 | Item | Cost (USD) |
