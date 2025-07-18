@@ -81,13 +81,13 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 Given the event’s proximity (3 weeks from July 16, 2025) and possible 1-week approval timeline, we urge expedited community feedback and voting. Options include:
 - **Approve**: Fund $15,482.88 USD + 100 million QUBIC for premium presence.
 - **Reject**: Provide feedback for revisions.
+
 This proposal advances QUBIC’s mission to drive blockchain innovation and adoption. Join us in making RareEvo a milestone for QUBIC’s growth!
 
 ## Recommendations
 1. **Confirm Supplier Costs**: Verify T-shirt and printing costs within 2 days of approval to meet deadlines.
-2. **Book Early**: Secure Caesars Palace reservations immediately upon approval to lock in $300/night rate.
 3. **Giveaway Logistics**: Finalize QR code or Quottery-based raffle system within 5 days for secure token distribution.
-4. **Design Alignment**: Ensure all materials highlight Qubic Tickchain, Quottery, and QCap, with designs completed within 5 days to meet the possible 7-day printing turnaround.
+4. **Design Alignment**: Ensure all materials highlight Qubic Tickchain with designs completed within 5 days to meet the possible 7-day printing turnaround.
 
 ## Conclusion
 QUBIC’s participation at RareEvo (August 6-10, 2025) will establish it as a blockchain innovator, emphasizing the Qubic Tickchain, Quottery, and QCap. With a budget of $15,482.88 USD (10.3/bQUBIC), and a lean team of 3, QUBIC will maximize visibility, engagement, and networking. Given the 3-week timeline and 1-week approval process, we urge the community to vote for approval to support this strategic opportunity.
